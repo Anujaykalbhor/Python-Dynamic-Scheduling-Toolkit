@@ -35,7 +35,7 @@ This project demonstrates the implementation and comparison of various CPU sched
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cpu-scheduling-algorithms.git
+   git clone https://github.com/Anujaykalbhor/Python-Dynamic-Scheduling-Toolkit.git
    cd cpu-scheduling-algorithms
    
 2. Ensure you have Python installed (version 3.6 or above).
